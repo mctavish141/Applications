@@ -6,7 +6,7 @@ namespace Program1
 	{
 		public static void Main (string[] args)
 		{
-			string line1 = "Hello, World!A";
+			string line1 = "Hello, World!";
 			string line2 = "";
 			foreach (char ch in line1) {
 				if (Char.IsLetter (ch)) {
